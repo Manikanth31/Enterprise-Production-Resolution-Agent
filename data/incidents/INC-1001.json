@@ -1,0 +1,7 @@
+{
+    "incident_id": "INC-1001",
+    "title": "Order 5004 stuck in PENDING status",
+    "description": "Order 5004 has remained in PENDING status and downstream processing has not completed.",
+    "severity": "HIGH",
+    "status": "OPEN"
+}
