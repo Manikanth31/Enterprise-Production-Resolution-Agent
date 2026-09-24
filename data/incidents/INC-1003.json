@@ -1,0 +1,7 @@
+{
+    "incident_id": "INC-1003",
+    "title": "Order 5003 invoice reconciliation review",
+    "description": "Order 5003 completed booking, but the support team is reviewing the invoice reconciliation state for signs of downstream mismatch or delayed settlement activity.",
+    "severity": "MEDIUM",
+    "status": "MONITORING"
+}

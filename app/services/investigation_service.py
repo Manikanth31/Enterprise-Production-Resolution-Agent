@@ -11,16 +11,15 @@ def investigate(order_id: int, incident_id: str):
     3. Return the RCA result.
     """
 
-    evidence = investigate_incident(order_id)
+    if order_id <= 0:
+        raise ValueError("order_id must be a positive integer.")
 
-    rca_result = analyze_incident_evidence(
-        incident_id,
-        evidence
-    )
+    evidence = investigate_incident(order_id)
+    rca_result = analyze_incident_evidence(incident_id, evidence)
 
     return {
         "incident_id": incident_id,
         "order_id": order_id,
         "evidence": evidence,
-        "rca": rca_result
+        "rca": rca_result,
     }

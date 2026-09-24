@@ -1,0 +1,7 @@
+{
+  "incident_id": "INC-1005",
+  "title": "Order 5006 payment gateway authentication failure",
+  "description": "Order 5006 failed after the payment gateway rejected the session token during authorization, causing the order to remain in a failed state and blocking invoicing.",
+  "severity": "HIGH",
+  "status": "OPEN"
+}

@@ -2,3 +2,9 @@ python-dotenv
 pydantic
 fastapi
 uvicorn
+pytest
+openai
+streamlit
+requests
+pandas
+reportlab

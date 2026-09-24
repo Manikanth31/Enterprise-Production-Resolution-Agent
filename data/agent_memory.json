@@ -1,0 +1,74 @@
+[
+  {
+    "incident_id": "INC-1001",
+    "order_id": 5004,
+    "summary": "Incident INC-1001: Order 5004 stuck in PENDING status | Severity: HIGH | Status: OPEN. Order 5004 was investigated and found to have Downstream interface connection timeout or latency issue. with a severity of HIGH. Observed evidence includes the interface error code INT-500 and recommended action: Validate downstream interface connectivity, inspect timeout thresholds, and retry the failed transaction only after confirming the dependency is healthy..",
+    "root_cause": "Downstream interface connection timeout or latency issue.",
+    "severity": "HIGH",
+    "confidence": "HIGH",
+    "timestamp": "2026-09-24T06:42:21.191129+00:00"
+  },
+  {
+    "incident_id": "INC-1001",
+    "order_id": 5004,
+    "summary": "Incident INC-1001: Order 5004 stuck in PENDING status | Severity: HIGH | Status: OPEN. Order 5004 was investigated and found to have Downstream interface connection timeout or latency issue. with a severity of HIGH. Observed evidence includes the interface error code INT-500 and recommended action: Validate downstream interface connectivity, inspect timeout thresholds, and retry the failed transaction only after confirming the dependency is healthy..",
+    "root_cause": "Downstream interface connection timeout or latency issue.",
+    "severity": "HIGH",
+    "confidence": "HIGH",
+    "timestamp": "2026-09-24T06:42:10.660907+00:00"
+  },
+  {
+    "incident_id": "INC-1007",
+    "order_id": 5004,
+    "summary": "Incident INC-1007: Order 5008 warehouse service throttling incident | Severity: HIGH | Status: OPEN. Order 5004 was investigated and found to have Downstream interface connection timeout or latency issue. with a severity of HIGH. Observed evidence includes the interface error code INT-500 and recommended action: Validate downstream interface connectivity, inspect timeout thresholds, and retry the failed transaction only after confirming the dependency is healthy..",
+    "root_cause": "Downstream interface connection timeout or latency issue.",
+    "severity": "HIGH",
+    "confidence": "HIGH",
+    "timestamp": "2026-09-24T06:41:05.654821+00:00"
+  },
+  {
+    "incident_id": "INC-1007",
+    "order_id": 5008,
+    "summary": "Incident INC-1007: Order 5008 warehouse service throttling incident | Severity: HIGH | Status: OPEN. Order 5008 was investigated and found to have Warehouse service throttling or temporary outage is blocking order fulfillment. with a severity of HIGH. Observed evidence includes the interface error code WMS-429 and recommended action: Reduce retry pressure on the warehouse API, confirm service capacity, and resume fulfillment after the downstream service stabilizes..",
+    "root_cause": "Warehouse service throttling or temporary outage is blocking order fulfillment.",
+    "severity": "HIGH",
+    "confidence": "HIGH",
+    "timestamp": "2026-09-24T06:40:52.015736+00:00"
+  },
+  {
+    "incident_id": "INC-1007",
+    "order_id": 5004,
+    "summary": "Incident INC-1007: Order 5008 warehouse service throttling incident | Severity: HIGH | Status: OPEN. Order 5004 was investigated and found to have Downstream interface connection timeout or latency issue. with a severity of HIGH. Observed evidence includes the interface error code INT-500 and recommended action: Validate downstream interface connectivity, inspect timeout thresholds, and retry the failed transaction only after confirming the dependency is healthy..",
+    "root_cause": "Downstream interface connection timeout or latency issue.",
+    "severity": "HIGH",
+    "confidence": "HIGH",
+    "timestamp": "2026-09-24T06:40:09.754801+00:00"
+  },
+  {
+    "incident_id": "INC-1001",
+    "order_id": 5004,
+    "summary": "Incident INC-1001: Order 5004 stuck in PENDING status | Severity: HIGH | Status: OPEN. Order 5004 was investigated and found to have Downstream interface connection timeout. with a severity of HIGH. Observed evidence includes the interface error code INT-500 and recommended action: Validate downstream interface connectivity and retry the failed transaction..",
+    "root_cause": "Downstream interface connection timeout.",
+    "severity": "HIGH",
+    "confidence": "HIGH",
+    "timestamp": "2026-09-23T14:44:06.627036+00:00"
+  },
+  {
+    "incident_id": "INC-1001",
+    "order_id": 5004,
+    "summary": "Incident INC-1001: Order 5004 stuck in PENDING status | Severity: HIGH | Status: OPEN. Order 5004 was investigated and found to have Downstream interface connection timeout. with a severity of HIGH. Observed evidence includes the interface error code INT-500 and recommended action: Validate downstream interface connectivity and retry the failed transaction..",
+    "root_cause": "Downstream interface connection timeout.",
+    "severity": "HIGH",
+    "confidence": "HIGH",
+    "timestamp": "2026-09-23T14:44:06.087224+00:00"
+  },
+  {
+    "incident_id": "INC-1001",
+    "order_id": 5004,
+    "summary": "Incident INC-1001: Order 5004 stuck in PENDING status | Severity: HIGH | Status: OPEN. Order 5004 was investigated and found to have Downstream interface connection timeout. with a severity of HIGH. Observed evidence includes the interface error code INT-500 and recommended action: Validate downstream interface connectivity and retry the failed transaction..",
+    "root_cause": "Downstream interface connection timeout.",
+    "severity": "HIGH",
+    "confidence": "HIGH",
+    "timestamp": "2026-09-23T14:20:28.483574+00:00"
+  }
+]

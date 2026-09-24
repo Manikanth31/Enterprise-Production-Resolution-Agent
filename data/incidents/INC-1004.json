@@ -1,0 +1,7 @@
+{
+    "incident_id": "INC-1004",
+    "title": "Order 5002 payment status follow-up",
+    "description": "Order 5002 was successful at the order level, but the team is validating whether payment and ERP sync activity remains consistent across downstream systems.",
+    "severity": "LOW",
+    "status": "RESOLVED"
+}

@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "name": "System Administrator"
+  },
+  "operator": {
+    "username": "operator",
+    "password": "362e4f232c0f2fb110ac652338b3f20d2b99db1e7c012b7eb3382f27a3086251",
+    "role": "operator",
+    "name": "Incident Operator"
+  }
+}

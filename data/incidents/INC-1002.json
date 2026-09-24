@@ -1,0 +1,7 @@
+{
+    "incident_id": "INC-1002",
+    "title": "Order 5005 duplicate transaction retry loop",
+    "description": "Order 5005 triggered repeated downstream transaction attempts after a duplicate record was detected, causing payment and order reconciliation issues.",
+    "severity": "CRITICAL",
+    "status": "OPEN"
+}

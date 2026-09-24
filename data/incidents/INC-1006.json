@@ -1,0 +1,7 @@
+{
+  "incident_id": "INC-1006",
+  "title": "Order 5007 inventory reservation timeout",
+  "description": "Order 5007 is waiting on inventory reservation approval while the upstream service times out and fails to confirm stock availability for fulfillment.",
+  "severity": "MEDIUM",
+  "status": "MONITORING"
+}

@@ -1,0 +1,7 @@
+{
+  "incident_id": "INC-1007",
+  "title": "Order 5008 warehouse service throttling incident",
+  "description": "Order 5008 encountered a rate-limit event in the warehouse orchestration layer, which caused repeated retries and delayed outbound fulfillment.",
+  "severity": "HIGH",
+  "status": "OPEN"
+}
